@@ -8,6 +8,12 @@ permet une résolution libre mais répond aussi aux questions plus bas.
 
 Ce module contient une librairie `veron_nepveux_projet` avec interaction en ligne de commande. 
 
+Toutes les commandes sont accessibles à partir de :
+
+```sh
+python -m veron_nepveux_projet --help
+```
+
 ### Exemple 
 
 Pour donner un exemple du format des données dans le cas d'une étude libre, il convient d'exécuter la commande suivante :
