@@ -1,4 +1,4 @@
-# Projet Supply chain VERON NEPVEUX
+# Projet Supply Chain VERON NEPVEUX
 ## Résolution problème de flux maximal sur un graphe orienté et lesté
 
 Ce module permet de résoudre des problèmes de flux maximal sur des graphes orientés et 
